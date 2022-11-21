@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "DucNT3",
+    "email": "v.ducnt3@gmail.com"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "React-Native plugin for the bluetooth ESC/POS printers.",
+  "keywords": [
+    "react-native",
+    "ESC",
+    "POS",
+    "Bluetooth",
+    "Printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-bluetooth-printer",
+  "homepage": "https://github.com/ducnt3/react-native-bluetooth-printer#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducnt3/react-native-bluetooth-printer"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.55.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}
